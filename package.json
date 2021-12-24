@@ -20,6 +20,7 @@
   "homepage": "https://github.com/lotus9630/gcp-study#readme",
   "dependencies": {
     "express": "^4.17.2",
-    "nodemon": "^2.0.15"
+    "nodemon": "^2.0.15",
+    "pm2": "^5.1.2"
   }
 }
